@@ -26,8 +26,8 @@ img.convert <- function(inFol, outFol){
 
 
 ### Blue Lake
-FolIn <- "N:/Research/Evangelista/EVANGELISTA GROUP_Data/Projects/CPW Sheep/Photos/2025/Crew Photos/HEIC"
-FolOut <- "N:/Research/Evangelista/EVANGELISTA GROUP_Data/Projects/CPW Sheep/Photos/2025/Crew Photos"
+FolIn <- ""
+FolOut <- ""
 
 img.convert(FolIn, FolOut)
 
